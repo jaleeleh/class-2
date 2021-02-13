@@ -1,20 +1,73 @@
-header{background-color: black;
-    color: darkgray;
-font-size: xx-large;}
+/* body{
+    background-image: url(images/bkground.png); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+     font-family: 'Patrick Hand', cursive;
+} */
 
-div{
-    font-size:x-large;
+    h1{
+        
+        /* float: left; */
+        margin-left: 300px;
+        /* border: solid; */
+        position:sticky;
+        
+    }
+    .firstContent{
+        /* margin-left: 150px; */
+        margin: 20px;
+        /* border: solid; */
+        height: 210px;
+        width: 490px;
+        padding-left: 150px;
+        
 
-}
-footer{
-    background-color:aqua
-}
 
-ol li{
-    font-size:x-large;
-}
+  } 
+  img{
+
+    width: 300px;
+    height: 250px;
+    border-radius: 50%;
+    /* border: solid; */
+  }
+
+    .myPicture{
+        margin: -800px  100px 400px 700px;
+        /* border: solid; */
+        height:600px;
+        width: 600px;
+    }
+    
+ .secondContent { 
+    
+    margin: 20px;
+        /* border: solid; */
+        height: 200px;
+        width: 500px;
+        padding-left: 150px;
+        
+ }
+ .thirdContent{
+    
+    margin: 20px;
+        /* border: solid; */
+        height: 100px;
+        width: 500px;
+        padding-left: 150px;
+        
+ }
+  .fourthContent{
+    margin: 20px;
+        /* border: solid; */
+        height: 250px;
+        width: 500px;
+        padding-left: 150px;
+        
+  }
 
 
-ul li{
-    font-size:x-large;
-}
+
+  
+
